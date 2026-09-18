@@ -1,0 +1,16 @@
+# Python / OS cruft
+__pycache__/
+*.pyc
+.DS_Store
+
+# Packaging artifacts
+*.zip
+
+# Databricks CLI / local state
+.databricks/
+
+# Internal facilitator & planning docs — never publish
+WORKSHOP_PLAYBOOK.md
+SOLO_DRYRUN.md
+WORKSHOP_1HR_PLAN.md
+PRESENTER_NOTES.md
